@@ -1,0 +1,7 @@
+#!/bin/bash
+gcc -Wall -pedandic -lpthread assignment1.c -o assignemnt
+
+for i in {1..1001..10}
+do
+./assignment1 ${i} 10 8 1
+done

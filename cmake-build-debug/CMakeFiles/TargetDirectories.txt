@@ -1,0 +1,5 @@
+D:/program/C/COMP5426/cmake-build-debug/CMakeFiles/assignment1.dir
+D:/program/C/COMP5426/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/program/C/COMP5426/cmake-build-debug/CMakeFiles/tut2_0_0.dir
+D:/program/C/COMP5426/cmake-build-debug/CMakeFiles/tutorial4.dir
+D:/program/C/COMP5426/cmake-build-debug/CMakeFiles/rebuild_cache.dir
